@@ -1,0 +1,26 @@
+{
+  "name": "sadmanwhossain.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SadmanWhossain/SadmanWhossain.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SadmanWhossain/SadmanWhossain.github.io/issues"
+  },
+  "homepage": "https://github.com/SadmanWhossain/SadmanWhossain.github.io#readme",
+  "dependencies": {
+    "node": "^17.7.2"
+  },
+  "devDependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
